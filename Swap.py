@@ -4,7 +4,7 @@
 # x = input('Enter value of x: ')
 # y = input('Enter value of y: ')
 
-x = 5
+x = 15
 y = 10
 
 # create a temporary variable and swap the values
